@@ -9,7 +9,7 @@ To analyze historical hotel booking data, forecast future room demand, and simul
 💡 Pricing Strategy & Sensitivity Analysis
 This model finds the ideal revenue balance by stress-testing possible pricing choices against changing market conditions rather than depending on a single static projection.
 1. We created a two-variable sensitivity matrix (What-If Data Table) to balance suggested changes to the Average Daily Rate (ADR) against possible variations in room demand.
-2. Application: Property management can see profit levels clearly thanks to this matrix. It shows management how much room rates may be increased before a decline in demand adversely affects the overall predicted revenue by graphically illustrating the precise break-even points.
+2. Application: Property management can see profit levels clearly thanks to this matrix. It shows management how much room rates may be increased before a decline in demand adversely affects the overall predicted revenue by illustrating the precise break-even points.
 
 🛠️ Technical Execution (Excel)
 This project uses Excel design to create a lightweight, widely accessible financial model without the need for conventional programming:
